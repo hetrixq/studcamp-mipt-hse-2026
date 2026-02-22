@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+
+# C++ build files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dSYM/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake-build-debug/
+cmake-build-release/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# CSV (optional, if generated)
+# *.csv
+
+*.wav

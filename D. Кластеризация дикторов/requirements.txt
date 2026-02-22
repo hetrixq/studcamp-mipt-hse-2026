@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+tqdm
+torch
+torchaudio
+soundfile
+torchcodec
+git+https://github.com/speechbrain/speechbrain.git
